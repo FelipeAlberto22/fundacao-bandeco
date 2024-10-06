@@ -1,2 +1,5 @@
-Este é o site do projeto "Fundação Bandeco", que atua no Instituto Federal de Ciencia, Educação e Tecnologia do Pará - Campus Abaetetuba. 
-Este projeto visa monitorar a situação dos cães abandonados que atualmente habitam o campus, fornecendo informações sobre a saúde, as vacinas e a descrição do animal. Futuramente, será adicionada uma feature para a adoção dos cachorros.
+# Site Fundação Bandeco
+## Um projeto do IFPA - Campus Abaetetuba
+Este Projeto visa monitorar todos os cães em situação de abandono que habitam o campus, fornecendo informações sobre a saúde, vacinas e descrição dos animais.
+
+Aqui os estudantes desenvolverão o site para a interação com o usuário.
